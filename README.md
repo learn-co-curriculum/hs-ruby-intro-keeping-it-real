@@ -3,7 +3,7 @@ tags: kids
 type: culture
 ---
 
-##IMPOSTER? NOT YOU GUYS!
+##IMPOSTOR? NOT YOU GUYS!
 
 
 Learning to code can be really hard. Like really really hard. Unlike water aerobics and finger painting, coding is an activity that people assume you have to be a super human genius to be able to do. But that's totally false. Everyone can (and should) learn to code.
