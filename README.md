@@ -1,7 +1,4 @@
----
-tags: kids
-type: culture
----
+
 
 ##IMPOSTOR? NOT YOU GUYS!
 
