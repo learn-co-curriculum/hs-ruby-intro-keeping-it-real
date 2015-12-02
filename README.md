@@ -10,3 +10,5 @@ But just like you can't be a concert pianist after one lesson, you can't build c
 1 [Alicia Liu]( https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5)
 
 2 [Paul Graham](http://www.paulgraham.com/hp.html)
+
+<a href='https://learn.co/lessons/hs-ruby-intro-keeping-it-real' data-visibility='hidden'>View this lesson on Learn.co</a>
