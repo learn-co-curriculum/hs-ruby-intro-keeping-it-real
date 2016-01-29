@@ -11,4 +11,4 @@ But just like you can't be a concert pianist after one lesson, you can't build c
 
 2 [Paul Graham](http://www.paulgraham.com/hp.html)
 
-<a href='https://learn.co/lessons/hs-ruby-intro-keeping-it-real' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby-intro-keeping-it-real' title='IMPOSTOR? NOT YOU GUYS!'>IMPOSTOR? NOT YOU GUYS!</a> on Learn.co and start learning to code for free.</p>
